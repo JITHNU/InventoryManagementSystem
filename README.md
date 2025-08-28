@@ -31,14 +31,12 @@ It is designed for small businesses to manage **Products**, **Suppliers**, **Cus
 ## 4. 🔑 Login Form
 - **Purpose:** To authenticate users before accessing the system.  
 - **Usage:** Enter **Username** and **Password** → click **Login**  
-![Add Screenshot Here](link)
 
 ---
 
 ## 5. 🏠 Home Form
 - Displays **low stock products** immediately after login.  
 - Helps the business quickly identify items that need **re-ordering**.  
-![Add Screenshot Here](link)
 
 ---
 
@@ -50,7 +48,6 @@ It is designed for small businesses to manage **Products**, **Suppliers**, **Cus
 - Customers  
 - Sales / Orders  
 - Reports  
-![Add Screenshot Here](link)
 
 ---
 
@@ -59,7 +56,6 @@ It is designed for small businesses to manage **Products**, **Suppliers**, **Cus
 - **Update Product:** Select from the list → Edit details → Save  
 - **Delete Product:** Select product → Delete  
 - **View Products:** Displays a table of all products  
-![Add Screenshot Here](link)
 
 ---
 
@@ -68,7 +64,6 @@ It is designed for small businesses to manage **Products**, **Suppliers**, **Cus
 - **Update Supplier:** Modify supplier details  
 - **Delete Supplier:** Remove supplier  
 - **View Suppliers:** Displays all suppliers  
-![Add Screenshot Here](link)
 
 ---
 
@@ -77,7 +72,6 @@ It is designed for small businesses to manage **Products**, **Suppliers**, **Cus
 - **View Cart:** Displays selected items with quantity and total price  
 - **Complete Sale:** Confirm and save sale → stock is updated automatically  
 - **View Sales:** Shows sales history with date, product, customer, and total amount  
-![Add Screenshot Here](link)
 
 ---
 
@@ -85,7 +79,6 @@ It is designed for small businesses to manage **Products**, **Suppliers**, **Cus
 - **Filter Sales by Date:** Select a date range (From and To) to view sales  
 - **Export Report:** Export sales data to CSV or Excel  
 - **Generate Excel Report:** Creates a formatted Excel sheet for business use  
-![Add Screenshot Here](link)
 
 ---
 
